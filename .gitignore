@@ -5,6 +5,8 @@ __pycache__/
 
 *.h5
 
+*.jpg
+
 *.csv
 config.py
 C:/Users/casti/Documents/gradient_garlic-code/Week_07/config.py
